@@ -1,0 +1,12 @@
+.project-description {
+    text-align: left;
+}
+
+.button{
+    background-color: #1abc9c;
+    color: white;
+}
+.project-img{
+    height: 280px;
+    border-radius: 10%;
+}
