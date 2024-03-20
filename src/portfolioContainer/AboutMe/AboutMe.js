@@ -1,9 +1,10 @@
 import React from 'react'
 import './AboutMe.css'
+import ContactMe from '../ContactMe/ContactMe'
 
 export default function AboutMe() {
 	return (
-		<div className="about-me-container">
+		<div className="about-me-container" id="aboutme">
 			<h3 className="about-me-title">About Me</h3>
 			<p className="why">Why choose Me ? </p>
 			<div className="title-underline"></div>
@@ -28,10 +29,10 @@ export default function AboutMe() {
 			      <li>Software testing</li>
 			    </ul>
 			    <div className='profile-options pt-5'>
-				<button className='btn primary-btn'>
+				<a href='#contactme'><button className='btn primary-btn' >
 					{" "}
 					Hire Me {" "}
-				</button>
+				</button></a>
 				<a href='cv.pdf' download="Pierre cv.pdf"> 
 					<button className='btn highlighted-btn'> Get Resume </button>
 				</a>

@@ -128,7 +128,7 @@ function Resume() {
 
   return (
     <div>
-      <div className="about-me-container pt-5 ">
+      <div className="about-me-container pt-5 " id="resume">
         <h3 className="about-me-title">Resume</h3>
         <p className="why">My Format Bio Details</p>
         <div className="title-underline"></div>
