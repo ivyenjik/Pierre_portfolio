@@ -114,7 +114,7 @@ function Resume() {
     <p className="esgi2">  Technologies used: HTML; CSS; JS.</p>
     <p className="col-lg-10 ">A To do list to help people stay organised in their daily tasks.</p>
     
-    <p className="pt-3">
+    <p className="pt-1">
     <ul className="puce">
     <li className="esgi1">School management system ------ 2023</li>
     </ul>
@@ -122,6 +122,18 @@ function Resume() {
     <p className="col-lg-10 ">A school management project, teachers to
      add student grades, modify student grades, manage students by class,view grades for different subjects
 view a report card, manage users (students and teachers), create logins for each user.</p>
+   
+  </p>
+  <p className="pt-1">
+    <ul className="puce">
+    <li className="esgi1">Intelligent communication system ------ 2023</li>
+    </ul>
+    <p className="esgi2">  Technologies used: Flutter(Dart), MySQL, SQL.</p>
+    <p className="col-lg-10 ">The project aims to develop an intelligent 
+    communication system designed to optimise and improve post-operative 
+    interactions between patients and carers. Focusing on the critical 
+    period following surgery, the system aims to provide a platform to facilitate 
+    continuous monitoring, clear communication and rapid access to medical assistance if required.</p>
    
   </p>
   </p>,
