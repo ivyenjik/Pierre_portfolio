@@ -116,11 +116,12 @@ function Resume() {
     
     <p className="pt-3">
     <ul className="puce">
-    <li className="esgi1">Product rating system --------- 2023</li>
+    <li className="esgi1">School management system ------ 2023</li>
     </ul>
-    <p className="esgi2">  Technologies used: Next JS, Talwind CSS; React JS.</p>
-    <p className="col-lg-10 ">A product rating system  for rating and commenting on any product with an 
-      IA that can write what the user says in audio.</p>
+    <p className="esgi2">  Technologies used: VueJS, TypeScript, CSS, HTML.</p>
+    <p className="col-lg-10 ">A school management project, teachers to
+     add student grades, modify student grades, manage students by class,view grades for different subjects
+view a report card, manage users (students and teachers), create logins for each user.</p>
    
   </p>
   </p>,

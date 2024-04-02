@@ -14,13 +14,13 @@ export default function Project() {
                     <p className='project-description pt-3'>The to-do list application is a digital tool designed 
                         to help users organise, manage and track their daily, 
                         weekly or monthly tasks effectively.</p>
-                    <button className='btn button mb-3'> View site</button>
+                        <a href='https://github.com/pierre265/To-Do'><button className='btn button mb-3'> View project</button></a>
 		        </div>
                 <div className="col-lg-4 col-sm-5">
-			        <img className='img-fluid project-img' src={require ('../../assets/home/rating.jpg')} 
-                         alt="No Internet connection"/><p className='project-description pt-3'> A product rating system  for rating and commenting 
-                         on any product with an IA that can write what the user says in audio.</p>
-                    <button className='btn button mb-3'> View site</button>
+			        <img className='img-fluid project-img' src={require ('../../assets/home/school.jpeg')} 
+                         alt="No Internet connection"/><p className='project-description pt-3'>A school management project, teachers to
+                         add student grades, modify student grades, manage students by class, ...</p>
+                    <a href='https://github.com/pierre265/school_manager'><button className='btn button mb-3'> View project</button></a>
 		        </div>
             </div>
 			 

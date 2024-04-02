@@ -1,6 +1,6 @@
 import React from 'react';
 import "./Profile.css";
-import ContactMe from '../../ContactMe/ContactMe';
+
 
 export default function Profile() {
   return (
@@ -50,7 +50,7 @@ export default function Profile() {
 					{" "}
 					Hire Me {" "}
 				</button></a>
-				<a href='cv.pdf' download="Pierre cv.pdf"> 
+				<a href='CV.pdf' download="Pierre CV.pdf"> 
 					<button className='btn highlighted-btn'> Get Resume </button>
 				</a>
 				</div>
